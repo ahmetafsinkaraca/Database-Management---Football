@@ -1,0 +1,24 @@
+C:\Users\ahmet\source\repos\ahmet_180201802(week 11)\ahmet_180201802(week 11)\bin\Debug\Database1.mdf
+C:\Users\ahmet\source\repos\ahmet_180201802(week 11)\ahmet_180201802(week 11)\bin\Debug\Database1_log.ldf
+C:\Users\ahmet\source\repos\ahmet_180201802(week 11)\ahmet_180201802(week 11)\bin\Debug\ahmet_180201802(week 11).exe.config
+C:\Users\ahmet\source\repos\ahmet_180201802(week 11)\ahmet_180201802(week 11)\bin\Debug\ahmet_180201802(week 11).exe
+C:\Users\ahmet\source\repos\ahmet_180201802(week 11)\ahmet_180201802(week 11)\bin\Debug\ahmet_180201802(week 11).pdb
+C:\Users\ahmet\source\repos\ahmet_180201802(week 11)\ahmet_180201802(week 11)\obj\Debug\ahmet_180201802(week 11).csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\ahmet_180201802(week 11)\ahmet_180201802(week 11)\obj\Debug\ahmet_180201802_week_11_.Form1.resources
+C:\Users\ahmet\source\repos\ahmet_180201802(week 11)\ahmet_180201802(week 11)\obj\Debug\ahmet_180201802_week_11_.Properties.Resources.resources
+C:\Users\ahmet\source\repos\ahmet_180201802(week 11)\ahmet_180201802(week 11)\obj\Debug\ahmet_180201802(week 11).csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\ahmet_180201802(week 11)\ahmet_180201802(week 11)\obj\Debug\ahmet_180201802(week 11).csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\ahmet_180201802(week 11)\ahmet_180201802(week 11)\obj\Debug\ahmet_180201802(week 11).exe
+C:\Users\ahmet\source\repos\ahmet_180201802(week 11)\ahmet_180201802(week 11)\obj\Debug\ahmet_180201802(week 11).pdb
+C:\Users\ahmet\source\repos\Football\Football\obj\Debug\Football.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\Football\Football\obj\Debug\ahmet_180201802_week_11_.Form1.resources
+C:\Users\ahmet\source\repos\Football\Football\obj\Debug\ahmet_180201802_week_11_.Properties.Resources.resources
+C:\Users\ahmet\source\repos\Football\Football\obj\Debug\Football.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\Football\Football\obj\Debug\Football.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Football\Football\bin\Debug\Database1.mdf
+C:\Users\ahmet\source\repos\Football\Football\bin\Debug\Database1_log.ldf
+C:\Users\ahmet\source\repos\Football\Football\bin\Debug\ahmet_180201802(week 11).exe.config
+C:\Users\ahmet\source\repos\Football\Football\bin\Debug\ahmet_180201802(week 11).exe
+C:\Users\ahmet\source\repos\Football\Football\bin\Debug\ahmet_180201802(week 11).pdb
+C:\Users\ahmet\source\repos\Football\Football\obj\Debug\ahmet_180201802(week 11).exe
+C:\Users\ahmet\source\repos\Football\Football\obj\Debug\ahmet_180201802(week 11).pdb
